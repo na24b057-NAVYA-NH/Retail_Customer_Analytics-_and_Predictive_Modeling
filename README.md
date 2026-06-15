@@ -21,19 +21,19 @@ Retail-Analytics-Project/
 
 ## Key Components
 
-### 1. SQL Exploratory Analysis
 
-* Performed initial analysis using SQL queries
-* Identified top products, customer behavior, and regional performance
-* Aggregated sales, profit, and order-level insights
-
----
-
-### 2. Data Cleaning and EDA (Python)
+### 1. Data Cleaning and EDA (Python)
 
 * Cleaned and prepared dataset for analysis
 * Handled missing values and data types
 * Performed exploratory data analysis to identify trends and patterns
+
+---
+### 2. SQL Exploratory Analysis
+
+* Performed initial analysis using SQL queries
+* Identified top products, customer behavior, and regional performance
+* Aggregated sales, profit, and order-level insights
 
 ---
 
