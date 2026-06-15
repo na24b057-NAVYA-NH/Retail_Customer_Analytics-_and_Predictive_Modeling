@@ -78,7 +78,7 @@ Retail-Analytics-Project/
 
 This project demonstrates the complete analytics workflow:
 
-* Data extraction → Cleaning → Analysis → Modeling → Insights
+* Data extraction → Cleaning → Analysis → Modeling 
 
 It highlights the ability to combine SQL and Python for real-world business problem solving.
 
